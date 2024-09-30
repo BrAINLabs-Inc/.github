@@ -8,15 +8,15 @@
 
 Welcome to **BrAINLabs Inc.**, a cutting-edge research lab focused on the intersection of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Neuroscience**. Our goal is to leverage the power of AI and ML to deepen our understanding of the human brain and develop innovative solutions that can positively impact various fields.
 
-## Mission
+## 🚀 Mission
 
 At BrAINLabs, we strive to explore the complex relationship between artificial intelligence and the neuroscience of the human brain. By harnessing the latest advancements in technology and research, we aim to:
 
-- Develop intelligent systems that mimic human cognitive functions.
-- Enhance the understanding of neural mechanisms through computational models.
-- Create applications that improve mental health, education, and more.
+- 🧠 Develop intelligent systems that mimic human cognitive functions.
+- 🔍 Enhance the understanding of neural mechanisms through computational models.
+- 🌍 Create applications that improve mental health, education, and more.
 
-## Projects
+## 📚 Projects
 
 Here are some of our current and past projects:
 
@@ -32,10 +32,9 @@ Here are some of our current and past projects:
 4. **Open Source Tools**  
    Developing and sharing tools and libraries that aid researchers and developers in the AI and neuroscience communities.
 
-## Contributions
+## 🤝 Contributions
 
-We welcome contributions from researchers, developers, and enthusiasts in the fields of AI, ML, and neuroscience. If you're interested in collaborating or contributing to our projects, please check our **CONTRIBUTING.md** file for guidelines.
-
+We welcome contributions from researchers, developers, and enthusiasts in the fields of AI, ML, and neuroscience. If you're interested in collaborating or contributing to our projects, please check our **[CONTRIBUTING.md](CONTRIBUTING.md)** file for guidelines.
 
 ## Contact us
 
