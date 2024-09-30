@@ -6,8 +6,6 @@
 </a>
 </div>
 
-## Introduction
-
 Welcome to **BrAINLabs Inc.**, a cutting-edge research lab focused on the intersection of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Neuroscience**. Our goal is to leverage the power of AI and ML to deepen our understanding of the human brain and develop innovative solutions that can positively impact various fields.
 
 ## Mission
