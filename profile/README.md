@@ -8,42 +8,36 @@
 
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+Welcome to **BrAINLabs Inc.**, a cutting-edge research lab focused on the intersection of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Neuroscience**. Our goal is to leverage the power of AI and ML to deepen our understanding of the human brain and develop innovative solutions that can positively impact various fields.
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+## Mission
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+At BrAINLabs, we strive to explore the complex relationship between artificial intelligence and the neuroscience of the human brain. By harnessing the latest advancements in technology and research, we aim to:
 
+- Develop intelligent systems that mimic human cognitive functions.
+- Enhance the understanding of neural mechanisms through computational models.
+- Create applications that improve mental health, education, and more.
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+## Projects
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+Here are some of our current and past projects:
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+1. **Neural Networks for Brain Simulation**  
+   A project focused on developing deep learning models that simulate brain activity and help researchers understand neural dynamics.
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+2. **AI in Neuroimaging**  
+   Utilizing machine learning techniques to analyze neuroimaging data, facilitating early detection of neurological disorders.
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+3. **Cognitive Assistants**  
+   Creating AI-powered applications designed to support cognitive functions and assist individuals with memory-related challenges.
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
+4. **Open Source Tools**  
+   Developing and sharing tools and libraries that aid researchers and developers in the AI and neuroscience communities.
 
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+## Contributions
+
+We welcome contributions from researchers, developers, and enthusiasts in the fields of AI, ML, and neuroscience. If you're interested in collaborating or contributing to our projects, please check our **CONTRIBUTING.md** file for guidelines.
+
 
 ## Contact us
 
