@@ -60,6 +60,13 @@ Here are some of our current and past projects:
       <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
     </td>
+   <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+      <h3>Dr. Dharshana Kasthurirathna</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/fca93e0fe05bf1fc773246eb3b5e0c894eed2e7b/profile/Dr.%20Dharshana.png" alt="Dr. Dharshana Kasthurirathna" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Contact:</strong> <a href="mailto:dharshana.k@sliit.lk">dharshana.k@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dharshana.k/">dharshana.k</a></p>
+    </td>
   </tr>
  
   <tr>
