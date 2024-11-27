@@ -160,10 +160,10 @@ Looking ahead, BrAINLabs is committed to pushing the boundaries of AI in neurosc
 ## ❓ Frequently Asked Questions
 
 **Q: How can I join BrAINLabs?**  
-A: We regularly accept interns and PhD candidates. Please check our [careers page](#) for more information.
+A: We regularly accept interns and PhD candidates. Available positions will be updated in future.
 
 **Q: Where can I find your published papers?**  
-A: Our publications can be found in the [Publications section](#).
+A: Our publications can be found in the Publications section.
 
 ## 🤝 Contributions
 
