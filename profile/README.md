@@ -110,7 +110,7 @@ Here are some of our current and past projects:
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
       <h3>Mr. Sanka Mohottala</h3>
-      <img src="https://github.com/BrAINLabs-Inc/.github/blob/6e1d1d0af4c75e052dac3dedccdc8c5a2413eb05/profile/274710726_5008824942494225_2887788736473584170_n%20(1).jpg" alt="Mr. Chethiya Galkaduwa" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/b9b809607d26bd662acee8ee063d4af50ee4e299/profile/sanka.jpg" alt="Mr. Sanka Mohottala" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:sanka.m@sliit.lk">sanka.m@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/sanka.m/">sanka.m</a></p>
