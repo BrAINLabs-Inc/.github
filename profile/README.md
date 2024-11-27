@@ -45,12 +45,8 @@ Here are some of our current and past projects:
 ## 👥 Team Profiles
 
 | **Dr. Dinuka Sahabandu** <br> <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150"> <br> **Research Interests:** AI Ethics, Computational Neuroscience <br> **Contact:** [dinuka@example.com](mailto:dinuka@example.com) <br> **Website:** [dinuka.com](http://dinuka.com) | **Dr. Mahima Weerasinghe** <br> <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150"> <br> **Research Interests:** Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture <br> **Contact:** [mahima@example.com](mailto:mahima@example.com) <br> **Website:** [mahima.w](https://www.sliit.lk/faculty-of-computing/staff/mahima.w/) |
-|---|---|
+|:---:|:---:|
 | **Alice Jones** <br> <img src="https://via.placeholder.com/150" alt="Alice Jones" width="150" height="150"> <br> **Position:** Research Scientist <br> **Research Interests:** Computational Neuroscience, AI Ethics <br> **Contact:** [alice.jones@example.com](mailto:alice.jones@example.com) <br> **Website:** [alicejones.com](http://alicejones.com) | **Bob Brown** <br> <img src="https://via.placeholder.com/150" alt="Bob Brown" width="150" height="150"> <br> **Position:** Data Analyst <br> **Research Interests:** Data Visualization, Predictive Analytics <br> **Contact:** [bob.brown@example.com](mailto:bob.brown@example.com) <br> **Website:** [bobbrown.com](http://bobbrown.com) |
-
-
-
-
 
 ## 📚 Publications
 
