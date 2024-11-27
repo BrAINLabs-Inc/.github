@@ -120,11 +120,19 @@ Here are some of our current and past projects:
 
 ## 📚 Publications
 
-1. **Understanding Neural Mechanisms through AI**  
-   Doe, J., Smith, J. (2023). *Journal of Neural Computation*. [Link to paper](#)
+## 📚 Publications
 
-2. **AI-Driven Neuroimaging Techniques**  
-   Brown, A., Jones, A. (2022). *IEEE Transactions on Medical Imaging*. [Link to paper](#)
+1. **Mental Stress Recognition on the Fly Using SNNs**  
+   M. Weerasinghe, G. Y. Wang, J. Whalley, M. Crook-Ramsey. *Nature Scientific Reports*, 2023. [doi:10.21203/rs.3.rs-1841009/v1](https://doi.org/10.21203/rs.3.rs-1841009/v1)  
+   [Read the article here](https://www.nature.com/articles/s41598-023-34517-w)
+
+2. **Ensemble Plasticity and Network Adaptability in SNNs**  
+   M. Weerasinghe, D. Parry, G. Y. Wang, J. Whalley. *ArXiv Preprint*. [Link to paper](https://arxiv.org/abs/2203.07039)
+
+3. **Incorporating Structural Plasticity Approaches in Spiking Neural Networks for EEG Modelling**  
+   M. Weerasinghe, J. I. Espinosa-Ramos, G. Y. Wang, D. Parry. *IEEE Access*, 2021. [doi:10.1109/ACCESS.2021.3099492](https://doi.org/10.1109/ACCESS.2021.3099492)  
+   [Read the article here](https://ieeexplore.ieee.org/abstract/document/9493873/)
+
 
 ## 🤝 Collaborations
 
