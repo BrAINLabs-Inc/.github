@@ -112,8 +112,8 @@ Here are some of our current and past projects:
       <h3>Mr. Sanka Mohottala</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/6e1d1d0af4c75e052dac3dedccdc8c5a2413eb05/profile/274710726_5008824942494225_2887788736473584170_n%20(1).jpg" alt="Mr. Chethiya Galkaduwa" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
-      <p><strong>Contact:</strong> <a href="mailto:chethiya.galkaduwa@gmail.com">chethiya.galkaduwa@gmail.com</a></p>
-      <p><strong>Website:</strong> <a href="https://chey97.github.io">chethiya.g</a></p>
+      <p><strong>Contact:</strong> <a href="mailto:sanka.m@sliit.lk">sanka.m@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/sanka.m/">sanka.m</a></p>
     </td>
   </tr>
 </table>
