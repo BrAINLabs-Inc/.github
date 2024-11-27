@@ -63,20 +63,34 @@ Here are some of our current and past projects:
   </tr>
   <tr>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-      <h3>Alice Jones</h3>
-      <img src="https://via.placeholder.com/150" alt="Alice Jones" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-      <p><strong>Position:</strong> Research Scientist</p>
-      <p><strong>Research Interests:</strong> Computational Neuroscience, AI Ethics</p>
-      <p><strong>Contact:</strong> <a href="mailto:alice.jones@example.com">alice.jones@example.com</a></p>
-      <p><strong>Website:</strong> <a href="http://alicejones.com">alicejones.com</a></p>
+      <h3>Dr. Dinuka Sahabandu</h3>
+      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dinuka.s/">dinuka.s</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-      <h3>Bob Brown</h3>
-      <img src="https://via.placeholder.com/150" alt="Bob Brown" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-      <p><strong>Position:</strong> Data Analyst</p>
-      <p><strong>Research Interests:</strong> Data Visualization, Predictive Analytics</p>
-      <p><strong>Contact:</strong> <a href="mailto:bob.brown@example.com">bob.brown@example.com</a></p>
-      <p><strong>Website:</strong> <a href="http://bobbrown.com">bobbrown.com</a></p>
+      <h3>Dr. Mahima Weerasinghe</h3>
+      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
+      <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
+    </td>
+  </tr>
+ <tr>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+      <h3>Dr. Dinuka Sahabandu</h3>
+      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dinuka.s/">dinuka.s</a></p>
+    </td>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+      <h3>Dr. Mahima Weerasinghe</h3>
+      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
+      <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
     </td>
   </tr>
 </table>
