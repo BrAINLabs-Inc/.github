@@ -72,10 +72,10 @@ Here are some of our current and past projects:
   <tr>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
       <h3>Dr. Kapila Weerasinghe</h3>
-      <img src="https://github.com/BrAINLabs-Inc/.github/blob/df5b2fefceada6c46ecd5f899c11afe97da778af/profile/Dr.%20Kapila.jpg" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/df5b2fefceada6c46ecd5f899c11afe97da778af/profile/Dr.%20Kapila.jpg" alt="Dr. Kapila Dissanayaka" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
-      <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
-      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
+      <p><strong>Contact:</strong> <a href="mailto:kapila.d@sliit.lk">kapila.d@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/kapila.d/">kapila.d</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
       <h3>Mr. Jeewaka Perera</h3>
