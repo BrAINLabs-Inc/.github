@@ -44,9 +44,43 @@ Here are some of our current and past projects:
 
 ## 👥 Team Profiles
 
-| **Dr. Dinuka Sahabandu** <br> <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150"> <br> **Research Interests:** AI Ethics, Computational Neuroscience <br> **Contact:** [dinuka@example.com](mailto:dinuka@example.com) <br> **Website:** [dinuka.com](http://dinuka.com) | **Dr. Mahima Weerasinghe** <br> <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150"> <br> **Research Interests:** Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture <br> **Contact:** [mahima@example.com](mailto:mahima@example.com) <br> **Website:** [mahima.w](https://www.sliit.lk/faculty-of-computing/staff/mahima.w/) |
-|:---:|:---:|
-| **Alice Jones** <br> <img src="https://via.placeholder.com/150" alt="Alice Jones" width="150" height="150"> <br> **Position:** Research Scientist <br> **Research Interests:** Computational Neuroscience, AI Ethics <br> **Contact:** [alice.jones@example.com](mailto:alice.jones@example.com) <br> **Website:** [alicejones.com](http://alicejones.com) | **Bob Brown** <br> <img src="https://via.placeholder.com/150" alt="Bob Brown" width="150" height="150"> <br> **Position:** Data Analyst <br> **Research Interests:** Data Visualization, Predictive Analytics <br> **Contact:** [bob.brown@example.com](mailto:bob.brown@example.com) <br> **Website:** [bobbrown.com](http://bobbrown.com) |
+<table>
+  <tr>
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <h3>Dr. Dinuka Sahabandu</h3>
+      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 8px;">
+      <p><strong>Research Interests:</strong> AI Ethics, Computational Neuroscience</p>
+      <p><strong>Contact:</strong> <a href="mailto:dinuka@example.com">dinuka@example.com</a></p>
+      <p><strong>Website:</strong> <a href="http://dinuka.com">dinuka.com</a></p>
+    </td>
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <h3>Dr. Mahima Weerasinghe</h3>
+      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 8px;">
+      <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
+      <p><strong>Contact:</strong> <a href="mailto:mahima@example.com">mahima@example.com</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <h3>Alice Jones</h3>
+      <img src="https://via.placeholder.com/150" alt="Alice Jones" width="150" height="150" style="border-radius: 8px;">
+      <p><strong>Position:</strong> Research Scientist</p>
+      <p><strong>Research Interests:</strong> Computational Neuroscience, AI Ethics</p>
+      <p><strong>Contact:</strong> <a href="mailto:alice.jones@example.com">alice.jones@example.com</a></p>
+      <p><strong>Website:</strong> <a href="http://alicejones.com">alicejones.com</a></p>
+    </td>
+    <td style="width: 50%; text-align: center; padding: 10px;">
+      <h3>Bob Brown</h3>
+      <img src="https://via.placeholder.com/150" alt="Bob Brown" width="150" height="150" style="border-radius: 8px;">
+      <p><strong>Position:</strong> Data Analyst</p>
+      <p><strong>Research Interests:</strong> Data Visualization, Predictive Analytics</p>
+      <p><strong>Contact:</strong> <a href="mailto:bob.brown@example.com">bob.brown@example.com</a></p>
+      <p><strong>Website:</strong> <a href="http://bobbrown.com">bobbrown.com</a></p>
+    </td>
+  </tr>
+</table>
+
 
 ## 📚 Publications
 
