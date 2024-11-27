@@ -102,14 +102,14 @@ Here are some of our current and past projects:
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/madhumini.g/">madhumini.g</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-      <h3>Mr. Jeewaka Perera</h3>
-      <img src="https://github.com/BrAINLabs-Inc/.github/blob/4ad83a4e37db91437c1d5f97925a09288df00d42/profile/Mr.%20Jeewaka.png" alt="Mr. Jeewaka Perera" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <h3>Mr. Asiri Gawesha</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/a80795336e4e33d5aac2045e68b61e422bbbd72f/profile/asiri.jpeg" alt="Mr. Asiri Gawesha" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
-      <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
-      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/jeewaka.p/">jeewaka.p</a></p>
+      <p><strong>Contact:</strong> <a href="mailto:asiri.g@sliit.lk">asiri.g@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/asiri.l/">asiri.g</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-      <h3>Mr. Chethiya Galkaduwa</h3>
+      <h3>Mr. Sanka Mohottala</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/6e1d1d0af4c75e052dac3dedccdc8c5a2413eb05/profile/274710726_5008824942494225_2887788736473584170_n%20(1).jpg" alt="Mr. Chethiya Galkaduwa" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:chethiya.galkaduwa@gmail.com">chethiya.galkaduwa@gmail.com</a></p>
