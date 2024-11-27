@@ -78,11 +78,11 @@ Here are some of our current and past projects:
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-      <h3>Dr. Dinuka Sahabandu</h3>
-      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <h3>Mr. Jeewaka Perera</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/4ad83a4e37db91437c1d5f97925a09288df00d42/profile/Mr.%20Jeewaka.png" alt="Mr. Jeewaka Perera" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
-      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dinuka.s/">dinuka.s</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/jeewaka.p/">jeewaka.p</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
       <h3>Dr. Mahima Weerasinghe</h3>
