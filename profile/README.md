@@ -44,7 +44,7 @@ Here are some of our current and past projects:
 
 ## 👥 Team Profiles
 
-| Team Member  | Profile  |
+| Team Member Profile  |
 |--------------|----------|
 | ![Dr. Dinuka Sahabandu]([https://via.placeholder.com/100](https://github.com/BrAINLabs-Inc/.github/blob/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg)) <br> **Dr. Dinuka Sahabandu** <br> **Position:** Principal Investigator <br> **Bio:** Dr. Jane Doe is a prominent researcher in AI and machine learning, with a PhD from XYZ University. She has published extensively on neural networks and their applications. <br> **Research Interests:** Natural Language Processing, Computer Vision <br> **Contact:** [jane.doe@example.com (mailto:jane.doe@example.com) <br> **Website:** [janedoe.com](http://janedoe.com) | ![Dr. Dinuka](https://github.com/BrAINLabs-Inc/.github/blob/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg) <br> **Dr. Dinuka** <br> **Position:** Principal Investigator <br> **Bio:** Dr. Dinuka is a leading researcher in AI ethics and computational neuroscience. <br> **Research Interests:** AI Ethics, Computational Neuroscience <br> **Contact:** [dinuka@example.com](mailto:dinuka@example.com) <br> **Website:** [dinuka.com](http://dinuka.com) |
 
