@@ -85,8 +85,8 @@ Here are some of our current and past projects:
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/jeewaka.p/">jeewaka.p</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
-      <h3>Dr. Mahima Weerasinghe</h3>
-      <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <h3>Mr. Chethiya Galkaduwa</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/8f3f18e3697a3b0629f3e06379831bce2eb1f671/profile/chethiyaa.jpg" alt="Mr. Chethiya Galkaduwa" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
