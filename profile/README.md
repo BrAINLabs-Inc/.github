@@ -150,11 +150,6 @@ While we don’t have specific collaborations at the moment, BrAINLabs is consta
 
 At the moment, there are no scheduled events, but we are actively planning several workshops and seminars related to AI in Neuroscience and Machine Learning in Health. Make sure to check back soon for updates on our next event!
 
-## 🌐 Resources
-
-- [Neural Network Datasets](#)
-- [Open Source Tools](#)
-
 ## 🌟 Future Directions
 
 Looking ahead, BrAINLabs is committed to pushing the boundaries of AI in neuroscience, and we are excited to pursue:
