@@ -92,6 +92,30 @@ Here are some of our current and past projects:
       <p><strong>Website:</strong> <a href="https://chey97.github.io">chethiya.g</a></p>
     </td>
   </tr>
+
+  <tr>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+      <h3>Dr. Kapila Weerasinghe</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/df5b2fefceada6c46ecd5f899c11afe97da778af/profile/Dr.%20Kapila.jpg" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
+      <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
+    </td>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+      <h3>Mr. Jeewaka Perera</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/4ad83a4e37db91437c1d5f97925a09288df00d42/profile/Mr.%20Jeewaka.png" alt="Mr. Jeewaka Perera" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/jeewaka.p/">jeewaka.p</a></p>
+    </td>
+    <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
+      <h3>Mr. Chethiya Galkaduwa</h3>
+      <img src="https://github.com/BrAINLabs-Inc/.github/blob/6e1d1d0af4c75e052dac3dedccdc8c5a2413eb05/profile/274710726_5008824942494225_2887788736473584170_n%20(1).jpg" alt="Mr. Chethiya Galkaduwa" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+      <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
+      <p><strong>Contact:</strong> <a href="mailto:chethiya.galkaduwa@gmail.com">chethiya.galkaduwa@gmail.com</a></p>
+      <p><strong>Website:</strong> <a href="https://chey97.github.io">chethiya.g</a></p>
+    </td>
+  </tr>
 </table>
 
 ## 📚 Publications
