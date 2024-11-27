@@ -144,13 +144,11 @@ Here are some of our current and past projects:
 
 ## 🤝 Collaborations
 
-We are proud to collaborate with leading institutions such as:
-- XYZ University
-- ABC Research Institute
+While we don’t have specific collaborations at the moment, BrAINLabs is constantly exploring new partnerships with top-tier research institutions, universities, and industry leaders. Stay tuned for exciting announcements in the near future!
 
 ## 📅 Upcoming Events
 
-Join us for our upcoming workshop on **AI Applications in Neuroscience** on **December 5, 2024**. More details can be found [here](#).
+At the moment, there are no scheduled events, but we are actively planning several workshops and seminars related to AI in Neuroscience and Machine Learning in Health. Make sure to check back soon for updates on our next event!
 
 ## 🌐 Resources
 
@@ -159,9 +157,10 @@ Join us for our upcoming workshop on **AI Applications in Neuroscience** on **De
 
 ## 🌟 Future Directions
 
-We aim to explore the following areas in the coming years:
-- Ethical AI in Neuroscience
-- Enhanced Cognitive Assistants
+Looking ahead, BrAINLabs is committed to pushing the boundaries of AI in neuroscience, and we are excited to pursue:
+- AI for Cognitive Enhancement: Developing intelligent systems to assist with learning, memory, and decision-making.
+- NeuroAI Integration: Creating seamless integration between brain-computer interfaces and AI models for advanced applications in health.
+- AI in Mental Health Diagnostics: Exploring AI applications for the detection and treatment of mental health conditions.
 
 ## ❓ Frequently Asked Questions
 
