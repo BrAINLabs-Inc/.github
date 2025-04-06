@@ -68,6 +68,7 @@ Here are some of our current and past projects:
       <h3>Dr. Dharshana Kasthurirathna</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/fca93e0fe05bf1fc773246eb3b5e0c894eed2e7b/profile/Dr.%20Dharshana.png" alt="Dr. Dharshana Kasthurirathna" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Senior Researcher / Mentor</p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Evolutionary Game Theory, AI Ethics, Security in Machine Learning, Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:dharshana.k@sliit.lk">dharshana.k@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dharshana.k/">dharshana.k</a></p>
@@ -79,6 +80,7 @@ Here are some of our current and past projects:
       <h3>Dr. Kapila Weerasinghe</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/df5b2fefceada6c46ecd5f899c11afe97da778af/profile/Dr.%20Kapila.jpg" alt="Dr. Kapila Dissanayaka" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher / Lead – Explainable AI</p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:kapila.d@sliit.lk">kapila.d@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/kapila.d/">kapila.d</a></p>
@@ -87,6 +89,7 @@ Here are some of our current and past projects:
       <h3>Mr. Jeewaka Perera</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/4ad83a4e37db91437c1d5f97925a09288df00d42/profile/Mr.%20Jeewaka.png" alt="Mr. Jeewaka Perera" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher</p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Reinforcement Learning, Bio-Inspired Machine Learning, AI Ethics, Security in Machine Learning, Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/jeewaka.p/">jeewaka.p</a></p>
@@ -106,7 +109,8 @@ Here are some of our current and past projects:
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
       <h3>Ms. Madhumini Gunaratne</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/73e5845e80ade7068cfcb4cb82cf3480fd89de5d/profile/madhumini.jpeg" alt="Ms. Madhumini Gunaratne" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
-      <p><strong>Position:</strong> Research Assistant</p>
+      <p><strong>Position:</strong> Graduate Research Assistant</p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:madhumini.g@sliit.lk">madhumini.g@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/madhumini.g/">madhumini.g</a></p>
@@ -115,6 +119,7 @@ Here are some of our current and past projects:
       <h3>Mr. Asiri Gawesha</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/a80795336e4e33d5aac2045e68b61e422bbbd72f/profile/asiri.jpeg" alt="Mr. Asiri Gawesha" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Graduate Research Assistant / MPhil Student</p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong>Computational Optimization in Machine Learning, Federate Learning, Edge AI, Computer Vision</p>
       <p><strong>Contact:</strong> <a href="mailto:asiri.g@sliit.lk">asiri.g@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/asiri.l/">asiri.g</a></p>
@@ -123,6 +128,7 @@ Here are some of our current and past projects:
       <h3>Mr. Sanka Mohottala</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/b9b809607d26bd662acee8ee063d4af50ee4e299/profile/sanka.jpg" alt="Mr. Sanka Mohottala" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Graduate Research Assistant / MPhil Student </p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Computer Vision, Graph Neural Networks, Applications of Deep Learning in Scientific Domains, Brain-Inspired Neural Networks</p>
       <p><strong>Contact:</strong> <a href="mailto:sanka.m@sliit.lk">sanka.m@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/sanka.m/">sanka.m</a></p>
