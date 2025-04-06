@@ -59,8 +59,8 @@ Here are some of our current and past projects:
       <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher / Lead – Efficient AI</p>
       <p><strong>Research Interests:</strong> Optimization, Game Theory,Reinforcement Learning, Efficient Machine Learning, AI Ethics, Security in Machine Learning</p>
-      <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
-      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dinuka.s/">dinuka.s</a></p>
+      <p><strong>Contact:</strong> <a href="mailto:sdinuka@uw.edu">sdinuka@uw.edu</a></p>
+      <p><strong>Website:</strong> <a href="https://people.ece.uw.edu/sahabandu_dinuka/index.html">dinuka.s</a></p>
     </td>
     <td style="width: 50%; padding: 10px; text-align: center; vertical-align: top; border-radius: 8px; background-color: #f4f4f4; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;">
       <h3>Dr. Dharshana Kasthurirathna</h3>
