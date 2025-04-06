@@ -50,7 +50,7 @@ Here are some of our current and past projects:
       <h3>Dr. Mahima Weerasinghe</h3>
       <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/927493bf87813dd9bbaf3d01453bd9c2720395f3/profile/Dr.%20Mahima.JPG" alt="Dr. Mahima Weerasinghe" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher / Lead – Neuroinformatics</p>
-      <p><strong>University:</strong> SLIIT , Sri Lanka</p>
+      <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:mahima.w@sliit.lk">mahima.w@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/mahima.w/">mahima.w</a></p>
