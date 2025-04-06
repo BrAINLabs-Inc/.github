@@ -59,6 +59,7 @@ Here are some of our current and past projects:
       <h3>Dr. Dinuka Sahabandu</h3>
       <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher / Lead – Efficient AI</p>
+       <p><strong>University:</strong> University of Washington , USA</p>
       <p><strong>Research Interests:</strong> Optimization, Reinforcement Learning, Efficient Machine Learning, AI Ethics, Security in Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:sdinuka@uw.edu">sdinuka@uw.edu</a></p>
       <p><strong>Website:</strong> <a href="https://people.ece.uw.edu/sahabandu_dinuka/index.html">dinuka.s</a></p>
@@ -94,6 +95,7 @@ Here are some of our current and past projects:
       <h3>Mr. Chethiya Galkaduwa</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/6e1d1d0af4c75e052dac3dedccdc8c5a2413eb05/profile/274710726_5008824942494225_2887788736473584170_n%20(1).jpg" alt="Mr. Chethiya Galkaduwa" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Graduate Teaching Assistant / PhD Student</p>
+      <p><strong>University:</strong> Indiana University , USA</p>
       <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
       <p><strong>Contact:</strong> <a href="mailto:rgalkadu@iu.edu">rgalkadu@iu.edu</a></p>
       <p><strong>Website:</strong> <a href="https://chey97.github.io">chethiya.g</a></p>
