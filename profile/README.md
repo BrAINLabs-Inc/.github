@@ -58,7 +58,7 @@ Here are some of our current and past projects:
       <h3>Dr. Dinuka Sahabandu</h3>
       <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher / Lead – Efficient AI</p>
-      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Research Interests:</strong> Optimization, Game Theory,Reinforcement Learning, Efficient Machine Learning, AI Ethics, Security in Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/dinuka.s/">dinuka.s</a></p>
     </td>
