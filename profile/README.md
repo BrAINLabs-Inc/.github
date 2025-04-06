@@ -58,7 +58,7 @@ Here are some of our current and past projects:
       <h3>Dr. Dinuka Sahabandu</h3>
       <img src="https://raw.githubusercontent.com/BrAINLabs-Inc/.github/cf6c3d088179dce80ae523a46a5983d263e900fc/profile/Dr.%20Dinuka.jpg" alt="Dr. Dinuka Sahabandu" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher / Lead – Efficient AI</p>
-      <p><strong>Research Interests:</strong> Optimization, Game Theory,Reinforcement Learning, Efficient Machine Learning, AI Ethics, Security in Machine Learning</p>
+      <p><strong>Research Interests:</strong> Optimization, Reinforcement Learning, Efficient Machine Learning, AI Ethics, Security in Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:sdinuka@uw.edu">sdinuka@uw.edu</a></p>
       <p><strong>Website:</strong> <a href="https://people.ece.uw.edu/sahabandu_dinuka/index.html">dinuka.s</a></p>
     </td>
@@ -85,7 +85,7 @@ Here are some of our current and past projects:
       <h3>Mr. Jeewaka Perera</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/4ad83a4e37db91437c1d5f97925a09288df00d42/profile/Mr.%20Jeewaka.png" alt="Mr. Jeewaka Perera" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Researcher</p>
-      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Research Interests:</strong> Reinforcement Learning, Bio-Inspired Machine Learning, AI Ethics, Security in Machine Learning, Machine Learning</p>
       <p><strong>Contact:</strong> <a href="mailto:dinuka.s@sliit.lk">dinuka.s@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/jeewaka.p/">jeewaka.p</a></p>
     </td>
@@ -112,7 +112,7 @@ Here are some of our current and past projects:
       <h3>Mr. Asiri Gawesha</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/a80795336e4e33d5aac2045e68b61e422bbbd72f/profile/asiri.jpeg" alt="Mr. Asiri Gawesha" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Graduate Research Assistant / MPhil Student</p>
-      <p><strong>Research Interests:</strong>Computational Optimization in Machine Learning, Fedarate Learning, Edge AI, Computer Vision</p>
+      <p><strong>Research Interests:</strong>Computational Optimization in Machine Learning, Federate Learning, Edge AI, Computer Vision</p>
       <p><strong>Contact:</strong> <a href="mailto:asiri.g@sliit.lk">asiri.g@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/asiri.l/">asiri.g</a></p>
     </td>
