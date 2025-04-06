@@ -112,7 +112,7 @@ Here are some of our current and past projects:
       <h3>Mr. Asiri Gawesha</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/a80795336e4e33d5aac2045e68b61e422bbbd72f/profile/asiri.jpeg" alt="Mr. Asiri Gawesha" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Graduate Research Assistant / MPhil Student</p>
-      <p><strong>Research Interests:</strong> AI Ethics, Security in Machine Learning, Machine Learning</p>
+      <p><strong>Research Interests:</strong>Computational Optimization in Machine Learning, Fedarate Learning, Edge AI, Computer Vision</p>
       <p><strong>Contact:</strong> <a href="mailto:asiri.g@sliit.lk">asiri.g@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/asiri.l/">asiri.g</a></p>
     </td>
@@ -120,7 +120,7 @@ Here are some of our current and past projects:
       <h3>Mr. Sanka Mohottala</h3>
       <img src="https://github.com/BrAINLabs-Inc/.github/blob/b9b809607d26bd662acee8ee063d4af50ee4e299/profile/sanka.jpg" alt="Mr. Sanka Mohottala" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
       <p><strong>Position:</strong> Graduate Research Assistant / MPhil Student </p>
-      <p><strong>Research Interests:</strong> Computational Neuroscience, Artificial Neural Networks, AI in Health, AI in Agriculture</p>
+      <p><strong>Research Interests:</strong> Computer Vision, Graph Neural Networks, Theory of Neural Networks, Applications of Deep Learning in Scientific Domains, Convex Optimization, Brain-Inspired Neural Networks</p>
       <p><strong>Contact:</strong> <a href="mailto:sanka.m@sliit.lk">sanka.m@sliit.lk</a></p>
       <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/sanka.m/">sanka.m</a></p>
     </td>
