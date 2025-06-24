@@ -130,8 +130,8 @@ Here are some of our current and past projects:
       <p><strong>Position:</strong> Academic Instructor / MPhil Student </p>
       <p><strong>University:</strong> Sri Lanka Institute of Information Technology , Sri Lanka</p>
       <p><strong>Research Interests:</strong> Computer Vision, Graph Neural Networks, Applications of Deep Learning in Scientific Domains, Brain-Inspired Neural Networks</p>
-      <p><strong>Contact:</strong> <a href="mailto:sanka.m@sliit.lk">sanka.m@sliit.lk</a></p>
-      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/sanka.m/">sanka.m</a></p>
+      <p><strong>Contact:</strong> <a href="mailto:sanka.mo@sliit.lk">sanka.mo@sliit.lk</a></p>
+      <p><strong>Website:</strong> <a href="https://www.sliit.lk/faculty-of-computing/staff/sanka.m/">sanka.mo</a></p>
     </td>
   </tr>
 </table>
