@@ -155,6 +155,18 @@ Here are some of our current and past projects:
 
 While we don’t have specific collaborations at the moment, BrAINLabs is constantly exploring new partnerships with top-tier research institutions, universities, and industry leaders. Stay tuned for exciting announcements in the near future!
 
+## ✅ Past Events & Workshops
+
+We have successfully organized the following TinyML-focused workshops:
+
+- **TinyML: A Compact Revolution in Engineering AI**  
+  *Pre-Conference Workshop – MERCon (Moratuwa Engineering Research Conference), August 2025*  
+
+- **All Roads Lead to TinyML: The Rome of Efficient Machine Learning in Engineering**  
+  *Pre-Conference Workshop – SICET (SLIIT International Conference on Engineering and Technology), August 2025*  
+
+🔗 **More details:** [tinyml-in-action.github.io](https://tinyml-in-action.github.io/)
+
 ## 📅 Upcoming Events
 
 At the moment, there are no scheduled events, but we are actively planning several workshops and seminars related to AI in Neuroscience and Machine Learning in Health. Make sure to check back soon for updates on our next event!
