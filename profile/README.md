@@ -165,7 +165,7 @@ We have successfully organized the following TinyML-focused workshops:
 - **All Roads Lead to TinyML: The Rome of Efficient Machine Learning in Engineering**  
   *Pre-Conference Workshop – SICET (SLIIT International Conference on Engineering and Technology), August 2025*  
 
-🔗 **More details:** [tinyml-in-action.github.io](https://tinyml-in-action.github.io/)
+🔗 **Find recordings, materials, and workshop details here:**  [tinyml-in-action.github.io](https://tinyml-in-action.github.io/)
 
 ## 📅 Upcoming Events
 
